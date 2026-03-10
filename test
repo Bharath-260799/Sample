@@ -2,6 +2,10 @@ THis is my first file
 
 This is my second line
 
+<<<<<<< HEAD
 THis is 3rd	
 
 This is my 4th update
+=======
+	
+>>>>>>> version1
